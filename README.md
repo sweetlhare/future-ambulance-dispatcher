@@ -11,3 +11,4 @@
 
 Веб-приложение собрано прямо из этого репозитория и успешно функционирует по ссылке https://share.streamlit.io/sweetlhare/future-ambulance-dispatcher/main/app.py
 
+Скринкаст https://drive.google.com/file/d/15y40WJoxppc3EJz6LeAEdh_bpFnOd8HY/view?usp=sharing
