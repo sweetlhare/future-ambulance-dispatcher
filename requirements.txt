@@ -1,0 +1,7 @@
+numpy
+pandas
+catboost
+folium
+streamlit-folium
+holidays
+haversine
