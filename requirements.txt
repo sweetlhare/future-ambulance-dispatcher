@@ -6,3 +6,4 @@ streamlit-folium
 holidays
 haversine
 colour
+openpyxl
