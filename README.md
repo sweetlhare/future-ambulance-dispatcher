@@ -1,3 +1,5 @@
+> **In English:** 'Ambulance dispatcher of the future' — a Big Data solution to optimize emergency medical services (Digital Breakthrough, Volga district), with research/training notebooks and a Streamlit web app. *(Full description in Russian below.)*
+
 # Диспетчер скорой медицинской помощь будущего
 
 Команда "Московские Зайцы"
